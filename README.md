@@ -34,8 +34,8 @@ A full-stack e-commerce application for selling new phones, pre-owned devices, a
 
 ```text
 E-Commerce-/
-â”œâ”€â”€ frontend/    # Customer storefront and admin dashboard
-â””â”€â”€ backend/     # REST API, authentication, and Firestore access
+├── frontend/    # Customer storefront and admin dashboard
+└── backend/     # REST API, authentication, and Firestore access
 ```
 
 ## Local development
